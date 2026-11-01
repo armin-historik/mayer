@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://mayer.hairdressing-history.org/sitemap.xml
